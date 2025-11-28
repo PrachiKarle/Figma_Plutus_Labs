@@ -52,6 +52,9 @@ export default function Home() {
             <a href="#" className="hover:text-yellow-300">
               Contact Us
             </a>
+             <a href="/about" className="hover:text-yellow-300">
+              API
+            </a>
           </nav>
 
           <button className="bg-yellow-400 text-black px-5 py-2 rounded-full font-semibold hover:bg-yellow-300">
